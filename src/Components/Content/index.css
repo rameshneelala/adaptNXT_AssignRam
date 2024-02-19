@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
 }
+
 .part-1 {
   display: flex;
   justify-content: space-between;
@@ -11,6 +12,7 @@
   margin-left: 6px;
   margin: 12px;
 }
+
 .order-cross-container {
   display: flex;
   align-items: center;
@@ -62,15 +64,18 @@
   justify-content: space-between;
   margin-bottom: 12px;
 }
+
 .part-3-logo-text {
   display: flex;
   align-items: center;
   margin-left: 10px;
 }
+
 .icon {
   height: 14px;
   /* margin-left: 2px; */
 }
+
 .logo-text-container-1 {
   display: flex;
   align-items: center;
@@ -88,6 +93,7 @@
   font-weight: 400;
   color: #000000;
 }
+
 .logo-text-container-2 {
   display: flex;
   align-items: center;
@@ -99,6 +105,7 @@
   padding: 12px;
   font-size: 12px;
 }
+
 .logo-text-container-3 {
   display: flex;
   align-items: center;

@@ -8,8 +8,9 @@
   align-items: center;
   justify-content: space-between;
   box-shadow: 2px 2px 0px 4px #eff2f4;
-  margin-bottom: 10px;
+  border: 1px solid burlywood;
 }
+
 .logo-container {
   display: flex;
   justify-content: space-around;
@@ -17,14 +18,16 @@
   height: 10vh;
   width: 25%;
 }
+
 .logo {
   width: 150px;
 }
+
 .icons-container {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   width: 10%;
-  justify-content: space-between;
   margin-right: 10px;
 }
 .image {
