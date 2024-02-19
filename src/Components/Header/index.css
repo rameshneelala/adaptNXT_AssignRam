@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  background-color: #eff2f4;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 2px 2px 0px 4px #eff2f4;
+  margin-bottom: 10px;
+}
+.logo-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  width: 25%;
+}
+.logo {
+  width: 150px;
+}
+.icons-container {
+  display: flex;
+  align-items: center;
+  width: 10%;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+.image {
+  height: 20px;
+}

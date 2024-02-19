@@ -1,0 +1,43 @@
+.dashboard-container {
+  background-color: #cfdfdb;
+  height: 90vh;
+  width: 12vw;
+}
+.logo-heading-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-even;
+  width: 100%;
+  margin-left: 10px;
+}
+.orders-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-even;
+  width: 100%;
+  background-color: rgb(223, 227, 245);
+  border-right: 4px solid rgb(26, 143, 75);
+}
+.icon {
+  margin-right: 10px;
+  width: 40px;
+  height: 20px;
+}
+.order-icon {
+  margin-right: 10px;
+  width: 40px;
+  height: 20px;
+  margin-left: 10px;
+}
+.ord-heading {
+  font-size: 15px;
+  font-family: "Roboto";
+  font-weight: bold;
+  color: rgb(255, 123, 0);
+}
+.heading {
+  font-size: 15px;
+  font-family: "Roboto";
+  font-weight: normal;
+  color: #000000;
+}

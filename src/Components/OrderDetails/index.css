@@ -1,0 +1,63 @@
+.part-3-order-details {
+  display: flex;
+  border-bottom: 1px solid lightgrey;
+}
+.plus-icon {
+  margin-left: 12px;
+  border: 1px solid lightcyan;
+  height: 15px;
+  width: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 14px;
+}
+.part-3-order-row {
+  padding-left: 93px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-right: 10px;
+}
+.order-code {
+  font-size: 12px;
+  font-family: "Roboto";
+  font-weight: 500;
+  color: rgb(255, 123, 0);
+}
+.text {
+  font-size: 12px;
+  font-family: "Roboto";
+  font-weight: 500;
+  color: #000000;
+}
+.pending {
+  border: 1px solid lightgray;
+  padding: 3px 5px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-family: "Roboto";
+  font-weight: 400;
+  color: green;
+  background-color: rgb(175, 236, 175);
+}
+.action-operation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  background-color: transparent;
+  color: #000000;
+  height: 20px;
+  padding: 12px;
+  font-size: 12px;
+  border: 1px solid lightgray;
+}
+.down-arrow {
+  margin-left: 4px;
+}
